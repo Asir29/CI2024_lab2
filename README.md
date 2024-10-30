@@ -7,3 +7,7 @@ The approach for the TSP (Travel Salesman Problem) has been understood from the 
 - Then the parent selection is made with a tournament selection, so the champion of a group of individuals is picked.
 - Between two parents the genetic operator is used, in particular crossover of type inver-over, that should preserve the relative order of genes (from one of the parents).
 - This last two steps are continued until a steady-state is reached.   
+
+The file "tsp-lab2.ipynb" lets the user choose between the different instances of the problem (executing only the part in which you are interested).
+
+Some suggestions for the vector indexing operations were given by ChatGPT
