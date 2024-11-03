@@ -15,7 +15,7 @@ Some suggestions for the vector indexing operations were given by ChatGPT
 
 Results obtained:
 
-| Country   | Cost from Random Initialization  | Calls for random  | Cost from Greedy Initialization | Calls for Greedy |
+| Country   | Cost from Random Initialization  | Calls for Random  | Cost from Greedy Initialization | Calls for Greedy |
 |-----------|-------------|----------------------|-------------|-----------------------|
 | Italy     | 16362       | 10201               | 4379        | 5000                 |
 | US        | 621240      | 10229               | 47168       | 7955                 |
