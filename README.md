@@ -11,3 +11,14 @@ The approach for the TSP (Travel Salesman Problem) has been understood from the 
 The file "tsp-lab2.ipynb" lets the user choose between the different instances of the problem (executing only the part in which you are interested).
 
 Some suggestions for the vector indexing operations were given by ChatGPT
+
+
+Results obtained:
+
+| Country   | Cost from Random Initialization  | Calls for random  | Cost from Greedy Initialization | Calls for Greedy |
+|-----------|-------------|----------------------|-------------|-----------------------|
+| Italy     | 16362       | 10201               | 4379        | 5000                 |
+| US        | 621240      | 10229               | 47168       | 7955                 |
+| China     | 974824      | 18150               | 62194       | 7880                 |
+| Vanuatu   | 1396        | 10213               | 1345        | 5273                 |
+| Russia    | 311005      | 10215               | 41944       | 6820                 |
